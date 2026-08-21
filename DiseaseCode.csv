@@ -1,0 +1,31 @@
+Disease Type,Disease Category,ICD-10 Code,ICD-10 Description
+Myocarditis,Fulminant myocarditis,(F) I40.0,"Infective myocarditis;Septic myocarditis;Use additional code (B95-B98), if desired, to identify infectious agent."
+Myocarditis,Viral myocarditis,(V) I40.0,"Infective myocarditis;Septic myocarditis;Use additional code (B95-B98), if desired, to identify infectious agent."
+Myocarditis,Acute myocarditis,I40.9,"Acute myocarditis, unspecified"
+Myocarditis,Myocarditis,I51.4,"Myocarditis, unspecified;Myocardial fibrosis;Myocarditis:;  -NOS;  -chronic (interstitial)"
+Cardiomyopathy,Dilated cardiomyopathy,I42.0,Dilated cardiomyopathy;Congestive cardiomyopathy
+Cardiomyopathy,Hypertrophic cardiomyopathy,I42.2,Other hypertrophic cardiomyopathy;Nonobstructive hypertrophic cardiomyopathy
+Cardiomyopathy,Cardiomyopathy,I42.9,"Cardiomyopathy, unspecified;Cardiomyopathy (primary)(secondary) NOS"
+Cardiomyopathy,Noncompaction of the ventricular myocardium,Q24.8,Other specified congenital malformations of heart;Congenital:;  -diverticulum of left ventricle;  -malformation of:;    --myocardium;    --pericardium;Malposition of heart;Uhl disease
+Kawasaki disease,Kawasaki disease,M30.3,Mucocutaneous lymph node syndrome [Kawasaki]
+"Congenital 
+heart disease",Ventricular septal defect,Q21.0,Ventricular septal defect
+"Congenital 
+heart disease",Atrial septal defect,Q21.1,Atrial septal defect;Coronary sinus defect;Patent or persistent:;  -foramen ovale;  -ostium secundum defect (type II);Sinus venosus defect
+"Congenital 
+heart disease",Atrial septal defect (Foramen ovale),(FO) Q21.1,Atrial septal defect;Coronary sinus defect;Patent or persistent:;  -foramen ovale;  -ostium secundum defect (type II);Sinus venosus defect
+"Congenital 
+heart disease",Atrial septal defect (Ostium secundum defect ),(OSD) Q21.1,Atrial septal defect;Coronary sinus defect;Patent or persistent:;  -foramen ovale;  -ostium secundum defect (type II);Sinus venosus defect
+"Congenital 
+heart disease",Atrioventricular septal defect,Q21.2,Atrioventricular septal defect;Common atrioventricular canal;Endocardial cushion defect;Ostium primum atrial septal defect (type I)
+"Congenital 
+heart disease",Tetralogy of Fallot,Q21.3,"Tetralogy of Fallot;Ventricular septal defect with pulmonary stenosis or atresia, dextroposition of aorta and hypertrophy of right ventricle."
+"Congenital 
+heart disease",Stenosis of right ventricular outflow tract,Q22.1,Congenital pulmonary valve stenosis
+"Congenital 
+heart disease",Patent ductus arteriosus,Q25.0,Patent ductus arteriosus;Patent ductus Botalli;Persistent ductus arteriosus
+"Congenital 
+heart disease",Stenosis of pulmonary artery,Q25.6,Stenosis of pulmonary artery;Supravalvular pulmonary stenosis
+"Congenital 
+heart disease",Pulmonary valve stenosis,I37.0,Pulmonary valve stenosis
+Other diseases(OD),See attribute dictionary file and ICD-10 version (https://icd.who.int/browse10/2019/en#),See attribute dictionary file,N/A
