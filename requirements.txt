@@ -1,0 +1,18 @@
+# PyTorch: install this line separately FIRST, before the rest of this file.
+# Confirmed working combination on Tesla V100 (CUDA 12.1 build, cu130 builds
+# drop V100/compute-capability-7.0 kernel support, confirmed the hard way):
+#   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+#
+# Then install everything else:
+#   pip install -r requirements.txt
+
+wfdb==4.3.1
+pandas
+numpy
+scikit-learn
+scipy
+iterative-stratification
+
+# Optional, only needed for the official Mamba-2 CUDA kernel (not currently
+# working on this cluster's toolkit/triton versions, see README):
+#   pip install mamba-ssm --no-build-isolation --no-deps
